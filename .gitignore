@@ -15,8 +15,7 @@ pids
 *.pid.lock
 
 # dotenv environment variables
-.env
-.env.*.local
+
 
 # Build output
 dist/
